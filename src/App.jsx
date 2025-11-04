@@ -1,11 +1,16 @@
-import React from 'react'
-import './App.css';
-function App() {
-  return (
-    <div>
-      <h1>App Component</h1>
-    </div>
-  )
-}
+// import React from 'react'
+// import Home from './Componants/Home'
+// import './App.css';
 
-export default App
+// function App() {
+
+
+//   return (
+
+//     <div id='mainClass' >
+//       <Home/>
+//     </div>
+//   )
+// }
+
+// export default App
